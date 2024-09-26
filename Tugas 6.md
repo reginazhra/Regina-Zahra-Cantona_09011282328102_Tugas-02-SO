@@ -74,8 +74,7 @@ Mon Sep 23 > PS1=”\t > “
 Saya=mahasiswa > PS1=”\w >”  
 ~ > PS1=\h >”
 
-![2b1](https://github.com/user-attachments/assets/522816df-fa86-4398-9600-cbd17d6eb00b)
-
+![Screenshot 2024-09-26 115642](https://github.com/user-attachments/assets/53831ca9-83bb-4c45-ac19-9038d176d6aa)
 
 
 **3.   Logout**
@@ -86,9 +85,9 @@ Echo “Terima kasih atas sesi yang diberikan”
 Sleep 5  
 clear 
 
-![3a](https://github.com/user-attachments/assets/2f36d7e5-af10-4d91-9505-d6f2827394d3)
+![Screenshot 2024-09-26 120336](https://github.com/user-attachments/assets/e6008afd-3d5d-43da-8913-c7862a56dae6)
 
-![3b](https://github.com/user-attachments/assets/047a5c2f-f1a9-4a27-8ed3-bdc171186b4f)
+![Screenshot 2024-09-26 121800](https://github.com/user-attachments/assets/25b801ee-c281-4e98-b028-35f0d7654a2b)
 
 
 **4. Bash script**
@@ -108,17 +107,17 @@ p3.sh
 echo “Program p3”  
 ps x  
 
-![4a](https://github.com/user-attachments/assets/9ccf52da-9ceb-4386-a931-d7a5fa7a26ab)
+![Screenshot 2024-09-26 130502](https://github.com/user-attachments/assets/4558e7cc-bad9-4346-97df-4ba59934e82f)
 
-![4a (1)](https://github.com/user-attachments/assets/e61d7ba6-74ac-4b32-a8b6-9afeb51c9309)
+![Screenshot 2024-09-26 130339](https://github.com/user-attachments/assets/a20fbed5-9a4a-4911-b655-7eff12c82d17)
 
-![4a (2)](https://github.com/user-attachments/assets/85a4b41b-3776-4b06-8fe0-66e68858f370)
+![Screenshot 2024-09-26 124718](https://github.com/user-attachments/assets/731b80a4-7a4d-49cd-8b74-a126f64d3c96)
 
-![4a (3)](https://github.com/user-attachments/assets/85dfe4cb-e37f-48db-a00c-0076b181e204)
+![Screenshot 2024-09-26 124540](https://github.com/user-attachments/assets/707ef400-96f7-4caf-b0ac-02b12d9f7209)
 
-![4a (4)](https://github.com/user-attachments/assets/5ce2b515-bd0d-4f60-b9ed-1292802e8038)
+![Screenshot 2024-09-26 125110](https://github.com/user-attachments/assets/9d579c08-9bac-48b5-828f-192bac4fd0d3)
 
-![4a (5)](https://github.com/user-attachments/assets/172e451c-ba4a-44cb-8c65-6e2aad4e8a82)
+![Screenshot 2024-09-26 125050](https://github.com/user-attachments/assets/91a0c000-7df0-4c6f-bd67-eab231219044)
 
 b. Jalankan script tersebut sebagai berikut :  
 $  ./p1.sh ; ./p3.sh ; ./p2.sh  
@@ -126,21 +125,23 @@ $  ./p1.sh &
 $  ./p1.sh $ ./p2.sh & ./p3.sh &  
 $  ( ./p1.sh ; ./p3.sh ) &  
 
-![4b1](https://github.com/user-attachments/assets/ae082e29-7603-4eb1-aafe-fbb5c425ec03)
+![Screenshot 2024-09-26 125612](https://github.com/user-attachments/assets/0d456ec8-a43a-4476-bc6c-733918ea7506)
 
-![4b2](https://github.com/user-attachments/assets/3cf91643-8514-4349-be96-52054adb613c)
+![Screenshot 2024-09-26 131545](https://github.com/user-attachments/assets/56c11d88-59d5-4dad-a38b-b45ee64ada03)
 
-![4b3](https://github.com/user-attachments/assets/4e58d66e-fbc1-45be-9c82-81d186055abb)
+![Screenshot 2024-09-26 131714](https://github.com/user-attachments/assets/e5ea07a1-8f49-4bda-9054-218465a44422)
 
-![4b4](https://github.com/user-attachments/assets/d2aaed8b-10b9-4e56-91cd-cc5161d106a9)
+![Screenshot 2024-09-26 131806](https://github.com/user-attachments/assets/5f93417f-5723-4bca-9d9a-b1d7f49d4a52)
 
-![4b5](https://github.com/user-attachments/assets/9da84617-6920-4f23-816b-232110f70080)
+![Screenshot 2024-09-26 132053](https://github.com/user-attachments/assets/7be91615-5672-4ce3-9f48-36f984ee934c)
 
-![4b6](https://github.com/user-attachments/assets/2b572a48-09ee-4849-9c2a-b09ccd5dc436)
+![Screenshot 2024-09-26 132500](https://github.com/user-attachments/assets/4549ac05-cf06-45ae-9f95-db6d78de4719)
 
-![4b7](https://github.com/user-attachments/assets/5fe73728-35c0-4436-947d-bcb56d48e100)
+![Screenshot 2024-09-26 132601](https://github.com/user-attachments/assets/e14f7e37-bd16-469a-b249-644efc005254)
 
-![4b8](https://github.com/user-attachments/assets/cf21050d-7935-4900-ac80-2984f7e421f1)
+![Screenshot 2024-09-26 132859](https://github.com/user-attachments/assets/42f4d05e-ea3a-43cb-800d-7d567ca51460)
+
+![Screenshot 2024-09-26 132953](https://github.com/user-attachments/assets/b5a16f92-84db-4cef-aa89-2bf0220c763c)
 
 
 **5. Jobs**
@@ -154,9 +155,9 @@ date >> hasil
 sleep 10  
 done  
 
-![5a1](https://github.com/user-attachments/assets/a4020cd1-de69-483e-a14f-f50a4310ee0a)
+![Screenshot 2024-09-26 133305](https://github.com/user-attachments/assets/9e283b8a-7d0d-41af-824f-a9e4a7be060f)
 
-![5a2](https://github.com/user-attachments/assets/52f33965-b9df-418e-8f1e-d0d3720bef92)
+![Screenshot 2024-09-26 133249](https://github.com/user-attachments/assets/aaa1299a-3c9f-47c4-ae92-ddab4e4b59dc)
   
 b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di background sebagai berikut : 
 
@@ -164,9 +165,9 @@ $ jobs
 $ find / -print > files 2>/dev/null &  
 $ jobs
 
-![5b](https://github.com/user-attachments/assets/4971c975-de6d-4204-98f5-12962aaa68c2)
+![Screenshot 2024-09-26 135755](https://github.com/user-attachments/assets/d28ac2de-6753-403f-94de-2e795dfd1583)
 
-![5b1](https://github.com/user-attachments/assets/ae838f57-0c08-48c6-bcdd-f4140c8d52ab)
+![Screenshot 2024-09-26 140009](https://github.com/user-attachments/assets/2be5509f-8dbf-4399-a993-d3fdbb8c954d)
 
 c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke 
 background 
@@ -174,18 +175,16 @@ background
 $ fg %1  
 $ bg 
 
-![5c](https://github.com/user-attachments/assets/fb4f4517-a339-462d-af64-9d7030314a43)
+![Screenshot 2024-09-26 140438](https://github.com/user-attachments/assets/59b38bd5-c68a-4baa-b81f-115a600aa4b8)
 
 d.  Stop program background dengan utilitas kil 
 
 $ ps x  
 $ kill [Nomor PID] 
 
-![5d1](https://github.com/user-attachments/assets/8231cd94-d4fe-4772-87bd-7c53effe9d26)
+![Screenshot 2024-09-26 140639](https://github.com/user-attachments/assets/84ab09b5-7bb3-4175-a3e2-28a4c08eb848)
 
-![5d2](https://github.com/user-attachments/assets/d99bba28-ef8e-407e-afba-d1532152fac4)
-
-![5d3](https://github.com/user-attachments/assets/bccd8625-3114-4420-bace-ef07fc0e2fa8)
+![Screenshot 2024-09-26 141007](https://github.com/user-attachments/assets/d8dc46f2-98ca-481b-99ad-b31def0eb62a)
 
 
 **6. History**
@@ -194,28 +193,28 @@ a. Ganti nilai HISTSIZE dari 1000 menjadi 20
 $ HISTSIZE=20  
 $ h  
 
-![6a](https://github.com/user-attachments/assets/9368d959-0304-4bfd-b7bc-4d69f91e6fd6)
+![Screenshot 2024-09-26 142007](https://github.com/user-attachments/assets/07bf68dc-6694-4d84-9df9-8414c346e6c8)
 
 b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan  
 
 $ !-5  
 
-![6b](https://github.com/user-attachments/assets/11ea3fe4-e84a-4396-b473-01ac08da2cf2)
+![Screenshot 2024-09-26 142139](https://github.com/user-attachments/assets/0fa3b876-93d8-4eea-b40b-1d0e258f1e8e)
 
 c. Ulangi instruksi yang terakhir.  Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer  
 
 $ !!  
 
-![6c](https://github.com/user-attachments/assets/e96e9b8e-cbda-4ceb-9b22-a7c9e8fd5c38)
+![Screenshot 2024-09-26 142327](https://github.com/user-attachments/assets/012e1e1a-0676-4316-961e-2a6629e8919f)
 
 d.  Ulangi instruksi pada history bufer nomor 150  
 
 $ !150 
 
-![6d](https://github.com/user-attachments/assets/e2e3704d-2fe0-41a0-8cf9-610581e00bba)
+![Screenshot 2024-09-26 142551](https://github.com/user-attachments/assets/f67fae70-fd0a-4fb8-bf4f-997b8281332e)
 
 e.  Ulangi instruksi dengan prefix “ls”  
 
 $ !ls 
 
-![6e](https://github.com/user-attachments/assets/442a7b17-38bb-414a-996d-9597918a4359)
+![Screenshot 2024-09-26 142724](https://github.com/user-attachments/assets/3664899a-7c12-4680-aee5-ef144ee62764)
