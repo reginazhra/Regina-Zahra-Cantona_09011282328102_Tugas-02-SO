@@ -36,6 +36,9 @@
 
    5.3. Mencoba connect ke server teman
 
+   ![Screenshot 2024-10-03 195813](https://github.com/user-attachments/assets/47862067-aa15-4f9a-9cce-5c379efd437e)
+
+
 # INSTALL PuTTY
 
 1. Tambahkan Repository Universe
